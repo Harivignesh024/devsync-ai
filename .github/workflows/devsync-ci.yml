@@ -41,6 +41,10 @@ jobs:
         run: |
           cd frontend
           npm install
+      - name: 🧪 Run backend tests
+        run: |
+          cd backend
+          python -m unittest discover
 
       - name: 🛠️ Build frontend
         run: |
