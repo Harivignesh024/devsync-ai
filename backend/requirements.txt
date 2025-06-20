@@ -1,0 +1,8 @@
+flask
+flask-cors
+requests
+numpy<2
+python-docx
+flask-jwt-extended
+python-dotenv
+bcrypt
