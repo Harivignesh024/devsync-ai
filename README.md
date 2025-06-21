@@ -82,7 +82,7 @@ HUGGINGFACE_API_KEY=hf_xxxx...
 Frontend .env
 REACT_APP_BACKEND_URL=http://localhost:5000
 
-✅ Sample Test (Optional)
+✅ Sample Test
 Run the backend test:
 cd backend
 python -m unittest test_app.py
@@ -107,7 +107,7 @@ docker pull hari245/devsync-ai-frontend:latest
 
 ### 🎯 Intro Video
 https://www.loom.com/share/bb63b1ab1ec4437da9c86f813ff8ee29?sid=90a032e6-0006-4485-a3ba-10be8e2f33f3
-💻 Live Demo
+### 💻 Live Demo
 https://www.loom.com/share/e772843c93424b4ba027c3d4e8c077fd?sid=eb178852-953e-4bea-b6d9-1e1c39c33399
 
 ### 🙌 Author
