@@ -63,7 +63,7 @@ Frontend: http://localhost:3000
 
 Backend API: http://localhost:5000
 
-🔨 Manual Local Setup
+### 🔨 Manual Local Setup
 1. Backend Setup
 cd backend
 pip install -r requirements.txt
@@ -74,7 +74,7 @@ cd frontend
 npm install
 npm start
 
-🔐 Environment Variables
+### 🔐 Environment Variables
 Backend .env
 SECRET_KEY=your_secret_key
 JWT_SECRET_KEY=your_jwt_key
@@ -92,21 +92,25 @@ Python + Node setup
 
 Run tests and build both frontend/backend
 
-Optional: Docker build check
+### Docker build check
 
-🐳 Docker Hub (Optional)
+🐳 Docker Hub 
 You can pull prebuilt images:
 
-docker pull harivignesh024/devsync-ai-backend:latest
-docker pull harivignesh024/devsync-ai-frontend:latest
-🎯 Intro Video
+- Backend: [`hari245/devsync-ai-backend`](https://hub.docker.com/r/hari245/devsync-ai-backend)
+- Frontend: [`hari245/devsync-ai-frontend`](https://hub.docker.com/r/hari245/devsync-ai-frontend)
 
+
+docker pull hari245/devsync-ai-backend:latest
+docker pull hari245/devsync-ai-frontend:latest
+
+
+### 🎯 Intro Video
+https://www.loom.com/share/bb63b1ab1ec4437da9c86f813ff8ee29?sid=90a032e6-0006-4485-a3ba-10be8e2f33f3
 💻 Live Demo
+https://www.loom.com/share/e772843c93424b4ba027c3d4e8c077fd?sid=eb178852-953e-4bea-b6d9-1e1c39c33399
 
-🐳 Docker Hub (optional)
-
-
-🙌 Author
+### 🙌 Author
 Harivignesh C K
 B.Tech Artificial Intelligence and Data Science
 GitHub: @Harivignesh024
